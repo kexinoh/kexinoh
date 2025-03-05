@@ -13,7 +13,8 @@
 5. 操纵鼠标来实现《球球大作战》的自定义皮肤绘画 🖱️🎮
 6. 自动爬取微博的比特币信息分析热度和趋势（帮MediaCrawler提交过一个PR） 🕸️📈
 7. 趣星座（可以指定任意两个人的星座和MBTI，生成一篇文章说明他们两个人星座和MBTI都是绝配） 🌟🔮
-8. 一些微不足道的安全/密码学工具和经验 🛡️🔍
+8. [曲线验证码](https://kexinoh.github.io/Curve-Puzzle-CAPTCHA/)，让AI破解不了验证码🛡️🔍
+9. 一些微不足道的安全/密码学工具和经验 🛡️🔍
 
 ## 开源项目漏洞
 [查看更多](https://github.com/advisories?query=credit%3Akexinoh) 🔍🐛
@@ -50,7 +51,8 @@
 5. Manipulated mouse movements to create custom skins for the game "Ball Battle" 🖱️🎮
 6. Automatically crawled and analyzed Bitcoin information from Weibo to assess trends and popularity (Contributed a PR to MediaCrawler) 🕸️📈
 7. Developed a fun horoscope tool that generates compatibility articles based on any two people's zodiac signs and MBTI types 🌟🔮
-8. Created various minor security/cryptography tools and gained experience 🛡️🔍
+8. [Curve CAPTCHA](https://kexinoh.github.io/Curve-Puzzle-CAPTCHA/), making it impossible for AI to crack the CAPTCHA 🛡️🔍
+9. Created various minor security/cryptography tools and gained experience 🛡️🔍
 
 ## Open Source Vulnerability Projects
 - [Pnpm](https://github.com/pnpm/pnpm) - ⭐ 30.9k
