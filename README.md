@@ -19,8 +19,7 @@
 9. 一些微不足道的安全/密码学工具和经验 🛡️🔍
 
 ## 开源项目漏洞
-[查看更多](https://github.com/advisories?query=credit%3Akexinoh) 🔍🐛
-
+- [查看更多](https://github.com/advisories?query=credit%3Akexinoh) 🔍🐛
 - [Cpython](https://github.com/python/cpython) - ⭐ 67.3k
 - [JDK](https://github.com/openjdk/jdk) - ⭐ 21.1k
 - [Vllm](https://github.com/vllm-project/vllm) - ⭐ 48.6k
@@ -28,7 +27,6 @@
 - [Pnpm](https://github.com/pnpm/pnpm) - ⭐ 30.9k
 - [Beego](https://github.com/beego/beego) - ⭐ 31.9k
 - [Tornado](https://github.com/tornadoweb/tornado) - ⭐ 21.9k
-
 - ...更多
 
 ## 闭源项目漏洞
@@ -61,8 +59,11 @@
 9. Created various minor security/cryptography tools and gained experience 🛡️🔍
 
 ## Open Source Vulnerability Projects
+- [Cpython](https://github.com/python/cpython) - ⭐ 67.3k
+- [JDK](https://github.com/openjdk/jdk) - ⭐ 21.1k
+- [Vllm](https://github.com/vllm-project/vllm) - ⭐ 48.6k
+- [SGLang](https://github.com/sgl-project/sglang) - ⭐ 14.8k
 - [Pnpm](https://github.com/pnpm/pnpm) - ⭐ 30.9k
-- [Vllm](https://github.com/vllm-project/vllm) - ⭐ 39.0k
 - [Beego](https://github.com/beego/beego) - ⭐ 31.9k
 - [Tornado](https://github.com/tornadoweb/tornado) - ⭐ 21.9k
 - ...more
