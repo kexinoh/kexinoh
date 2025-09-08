@@ -19,7 +19,8 @@
 9. 一些微不足道的安全/密码学工具和经验 🛡️🔍
 
 ## 开源项目漏洞
-- [查看更多](https://github.com/advisories?query=credit%3Akexinoh) 🔍🐛
+- [查看github security](https://github.com/advisories?query=credit%3Akexinoh) 🔍🐛
+- [查看我的个人主页](http://qiniu.funxingzuo.top/kexinoh-cv.html)
 - [Cpython](https://github.com/python/cpython) - ⭐ 67.3k
 - [JDK](https://github.com/openjdk/jdk) - ⭐ 21.1k
 - [Vllm](https://github.com/vllm-project/vllm) - ⭐ 48.6k
