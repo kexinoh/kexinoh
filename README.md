@@ -44,7 +44,7 @@
 # Kexin Oh
 
 🎓 **Master's Student at China Ocean University**
-🏢 **Intern at Qi An Xin Technology Research Institute, Starmap Lab**
+🏢 **Intern at Tencent, zhuque Lab**
 🔑 **Expertise in Cryptography and Automated Vulnerability Detection**
 
 ## Project Experience
