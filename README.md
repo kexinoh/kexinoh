@@ -1,7 +1,7 @@
 # Kexin Oh
 
-🎓 **中国海洋大学研究生三年级**
-🏢 **腾讯朱雀实验室实习生**
+🎓 **中国海洋大学研究生**
+🏢 **腾讯朱雀实验室**
 🔑 **擅长密码学与自动化漏洞查找**
 😍 **所有的emoji和排版来自于LLM**
 
@@ -43,7 +43,7 @@
 # Kexin Oh
 
 🎓 **Master's Student at China Ocean University**
-🏢 **Intern at Tencent, zhuque Lab**
+🏢 **Tencent, zhuque Lab**
 🔑 **Expertise in Cryptography and Automated Vulnerability Detection**
 
 ## Project Experience
